@@ -1,6 +1,7 @@
 
 # PHÂN CỤM SINH VIÊN K58KTP - K-MEANS
 # Môn: Khoa học Dữ liệu
+# Link Youtobe : 
 
 ````
 import pandas as pd
